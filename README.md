@@ -48,4 +48,4 @@ I am interested in AI and Data Science Field. I have been exploring Machine Lear
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=raditsoic&show_icons=true&theme=dark&locale=en&layout=compact" alt="raditsoic" height="200">
 </div>
 
-![snake animation](https://github.com/raditsoic/raditsoic/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/raditsoic/raditsoic/blob/output/github-snake-dark.svg?palette=github-dark)
