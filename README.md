@@ -44,7 +44,7 @@ I am interested in AI and Data Science Field. I have been exploring Machine Lear
 
 ### Stats
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raditsoic&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter notebook" alt="raditsoic" height="200">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raditsoic&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook" alt="raditsoic" height="200">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=raditsoic&show_icons=true&theme=dark&locale=en&layout=compact" alt="raditsoic" height="200">
 </div>
 
