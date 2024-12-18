@@ -6,8 +6,8 @@ Hi 👋 My name is Fraditya
 I am interested in AI and Data Science Field. I have been exploring Machine Learning for quite some time now and enjoy learning it. Other than that, i also learn quite a bit of Golang.
 
 * 🌍  I'm based in Surabaya, Indonesia
-* 🚀  I'm currently working on [Weebs](http://github.com/Raditsoic/weebs-go-nextjs) and Kokusei Discord bot
-* 🧠  I'm learning Machine Learning in Python and Backend Development with Go
+* 🚀  I'm currently working on Avalon AI
+* 🧠  I'm learning Artificial Intelligence in Python and Backend Development with Go
 * ⚡  I like to explore things, especially Data Science and AI related
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlod3Vya3o3NjBlNGJ6aTludWduOHVncHM2MXJjdjh0cHkwNHE2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  />
@@ -42,7 +42,10 @@ I am interested in AI and Data Science Field. I have been exploring Machine Lear
   
 </div>
 
-### Languages
+### Stats
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raditsoic&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter notebook" alt="raditsoic" height="200">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=raditsoic&show_icons=true&theme=dark&locale=en&layout=compact" alt="raditsoic" height="200">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raditsoic&show_icons=true&locale=en&layout=compact" alt="raditsoic" /></p>
-
+![snake_gif](https://github.com/raditsoic/raditsoic/blob/output/github-contribution-grid-snake-dark.svg)
