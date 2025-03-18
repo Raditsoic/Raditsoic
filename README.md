@@ -1,14 +1,11 @@
 Hi 👋 My name is Fraditya
 =========================
 
-### I am an Undergraduare Student, majoring in Information Technology at Sepuluh Nopember Institute of Technology.
+I’m an undergraduate student majoring in Information Technology at Sepuluh Nopember Institute of Technology. Originally a Backend Engineer, I’m now pivoting towards AI/ML, focusing on LLMs, Agentic AI, and Operations (DevOps/MLOps).
 
-I am interested in AI and Data Science Field. I have been exploring Machine Learning for quite some time now and enjoy learning it. Other than that, i also learn quite a bit of Golang.
-
-* 🌍  I'm based in Surabaya, Indonesia
-* 🚀  I'm currently working on Avalon AI
-* 🧠  I'm learning Artificial Intelligence in Python and Backend Development with Go
-* ⚡  I like to explore things, especially Data Science and AI related
+* 🌍  Based in Surabaya, Indonesia
+* 🚀  Exploring AI/ML Inference with C++ and Rust
+* ⚡  Passionate about Data Science, AI, and MLOps
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlod3Vya3o3NjBlNGJ6aTludWduOHVncHM2MXJjdjh0cHkwNHE2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  />
 
@@ -36,9 +33,6 @@ I am interested in AI and Data Science Field. I have been exploring Machine Lear
   <a href="https://www.linkedin.com/in/awang-fraditya-586b21248/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/ruuoreo_o" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
   
 </div>
 
@@ -48,4 +42,3 @@ I am interested in AI and Data Science Field. I have been exploring Machine Lear
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=raditsoic&show_icons=true&theme=dark&locale=en&layout=compact" alt="raditsoic" height="200">
 </div>
 
-![snake animation](https://github.com/raditsoic/raditsoic/blob/output/github-snake-dark.svg?palette=github-dark)
