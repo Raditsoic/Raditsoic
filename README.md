@@ -1,11 +1,7 @@
 Hi 👋 My name is Fraditya
 =========================
 
-I’m an undergraduate student majoring in Information Technology at Sepuluh Nopember Institute of Technology. Originally a Backend Engineer, I’m now pivoting towards AI/ML, focusing on LLMs, Agentic AI, and Operations (DevOps/MLOps).
-
-* 🌍  Based in Surabaya, Indonesia
-* 🚀  Exploring AI/ML Inference with C++ and Rust
-* ⚡  Passionate about Data Science, AI, and MLOps
+I’m an undergraduate student majoring in Information Technology at Sepuluh Nopember Institute of Technology. Having a lot of interest in distributed systems, DevOps, Infrastructure and Agentic AI.
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlod3Vya3o3NjBlNGJ6aTludWduOHVncHM2MXJjdjh0cHkwNHE2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  />
 
